@@ -13,9 +13,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nicollas1305&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicollas1305&theme=blueberry&hide_border=false"/>
 </div>
-                           
+
+<div align="center">                        
 ![](https://github-readme-stats.vercel.app/api?username=Nicollas1305&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nicollas1305&theme=blueberry&hide_border=false)<br/>
- 
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=Nicollas1305&icon=3&color=0)](https://visitcount.itsvg.in)
